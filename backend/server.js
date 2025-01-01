@@ -18,6 +18,8 @@
 //   fs.writeFileSync(dataFilePath, JSON.stringify({ countries: [] }));
 // }
 
+
+
 // const getCountries = () => JSON.parse(fs.readFileSync(dataFilePath)).countries;
 // const saveCountries = (countries) => fs.writeFileSync(dataFilePath, JSON.stringify({ countries }));
 
